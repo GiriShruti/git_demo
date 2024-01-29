@@ -1,2 +1,2 @@
-# git_demo.github.io
+# git_demo.
 Git tutorial
